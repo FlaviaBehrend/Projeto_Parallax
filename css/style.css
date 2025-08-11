@@ -6,7 +6,7 @@ html, body{
 }
 .parallax1{
     position: relative;
-    background-image: url(../img/especial-festa-funina-baressp.jpg);
+    background-image: url(../img/especial_festa.jpg);
     height: 100%;
     opacity: 0.65;
     background-attachment: fixed;
@@ -35,7 +35,7 @@ html, body{
 }
 .parallax2{
     position: relative;
-    background-image: url(../img/festa-junina-1.jpg);
+    background-image: url(../img/festa_junina.jpg);
     height: 100%;
     opacity: 0.65;
     background-attachment: fixed;
@@ -50,7 +50,7 @@ html, body{
 }
 .parallax3{
     position: relative;
-    background-image: url(../img/quadrilha-cke.jpg);
+    background-image: url(../img/quadrilha_cke.jpg);
     height: 100%;
     opacity: 0.65;
     background-attachment: fixed;
@@ -64,7 +64,7 @@ html, body{
 }
 .parallax4{
     position: relative;
-    background-image: url(../img/Festa-Junina-no-Hotel-Fazenda-Vista-Alegre-MG.jpg);
+    background-image: url(../img/hotel_fazenda.jpg);
     height: 100%;
     opacity: 0.65;
     background-attachment: fixed;
@@ -79,7 +79,7 @@ html, body{
 }
 .parallax5{
     position: relative;
-    background-image: url(../img/Capa-Site-20.png);
+    background-image: url(../img/capa_site.png);
     height: 100%;
     opacity: 0.65;
     background-attachment: fixed;
